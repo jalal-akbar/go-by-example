@@ -1,6 +1,6 @@
 # go-by-example
 
-- (1)Hello World
+# Hello World
 - Our first program will print the classic “hello world” message. Here’s the full source code.
 - (2)Values
 - Go has various value types including strings, integers, floats, booleans, etc. Here are a few basic examples.
@@ -17,7 +17,7 @@
 - (8)Arrays
 - In Go, an array is a numbered sequence of elements of a specific length. In typical Go code, slices are much more common; arrays are useful in - some special scenarios.
 - (9)Slices
-10.Maps
+# Maps
 11.Range
 12.Functions
 13.Multiple Return Values
