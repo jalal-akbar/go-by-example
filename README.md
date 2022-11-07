@@ -1,26 +1,28 @@
 # go-by-example
 
-# Hello World
+# 1. Hello World
 - Our first program will print the classic “hello world” message. Here’s the full source code.
-# Values
+# 2. Values
 - Go has various value types including strings, integers, floats, booleans, etc. Here are a few basic examples.
-# Variables
+# 3. Variables
 - In Go, variables are explicitly declared and used by the compiler to e.g. check type-correctness of function calls.
-# Constants
+# 4. Constants
 - Go supports constants of character, string, boolean, and numeric values.
-# For
+# 5. For
 - for is Go’s only looping construct. Here are some basic types of for loops.
-# If/Else
+# 6. If/Else
 - Branching with if and else in Go is straight-forward.
-# Switch
+# 7. Switch
 - Switch statements express conditionals across many branches.
-# Arrays
-- In Go, an array is a numbered sequence of elements of a specific length. In typical Go code, slices are much more common; arrays are useful in - some special scenarios.
-# Slices
-# Maps
-11.Range
-12.Functions
-13.Multiple Return Values
+# 8. Arrays
+- In Go, an array is a numbered sequence of elements of a specific length. In typical Go code, slices are much more common;    -arrays are useful in - some special scenarios.
+# 9. Slices
+- Slices are an important data type in Go, giving a more powerful interface to sequences than arrays.
+# 10. Maps
+- Maps are Go’s built-in associative data type (sometimes called hashes or dicts in other languages).
+# Range
+# Functions
+# 13 Multiple Return Values
 14.Variadic Functions
 15.Closures
 16.Recursion
