@@ -21,8 +21,11 @@
 # 10. Maps
 - Maps are Go’s built-in associative data type (sometimes called hashes or dicts in other languages).
 # Range
+- range iterates over elements in a variety of data structures.
 # Functions
+- Functions are central in Go. We’ll learn about functions with a few different examples.
 # 13 Multiple Return Values
+- Go has built-in support for multiple return values. This feature is used often in idiomatic Go, for example to return both result and error values from a function.
 14.Variadic Functions
 15.Closures
 16.Recursion
