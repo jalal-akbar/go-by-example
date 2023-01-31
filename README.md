@@ -26,10 +26,15 @@
 - Functions are central in Go. We’ll learn about functions with a few different examples.
 # 13 Multiple Return Values
 - Go has built-in support for multiple return values. This feature is used often in idiomatic Go, for example to return both result and error values from a function.
-14.Variadic Functions
-15.Closures
+# 14.Variadic Functions
+- Variadic functions can be called with any number of trailing arguments.
+# 15.Closures
+- Go supports anonymous functions, which can form closures. 
+- Anonymous functions are useful when you want to define a function inline without having to name it.
 16.Recursion
-Pointers
+- Go supports recursive functions
+# 17 Pointers
+- Go supports pointers, allowing you to pass references to values and records within your program.
 Strings and Runes
 Structs
 Methods
